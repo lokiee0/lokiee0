@@ -100,28 +100,11 @@ IoT security solution that monitors network traffic and protects insecure commun
 
 ---
 
-### 🔹 Rubricate Collaboration Platform
-
-Worked on analytics integration, authentication flows, notifications, event tracking, and user activity monitoring.
-
-**Tech Stack:** React, TypeScript, Node.js, Express, Azure Blob Storage, Socket.IO
-
----
-
 ### 🔹 Mixpanel Analytics Integration
 
 Implemented end-to-end product analytics including custom events, funnels, dashboards, user properties, and event tracking across multiple modules.
 
 **Tech Stack:** Mixpanel, React, TypeScript, Node.js
-
----
-
-### 🔹 Kener Open Source
-
-Contributing bug fixes and improvements to the Kener monitoring platform.
-
-Recent contribution:
-- Fixed favicon resolution for deployments using `KENER_BASE_PATH`.
 
 ---
 
@@ -145,14 +128,6 @@ Recent contribution:
 
 ---
 
-## 🌍 Open Source
-
-- ✅ Contributing to **Kener**
-- 🔧 Submitted a fix for favicon resolution with `KENER_BASE_PATH`
-- 🚀 Looking to contribute to more open source projects
-
----
-
 ## 🎯 Goals for 2026
 
 - 🚀 Contribute regularly to open source
@@ -166,8 +141,7 @@ Recent contribution:
 ## 📫 Connect With Me
 
 - 📧 **Email:** klogeshkumar143@gmail.com
-- 💼 **LinkedIn:** *Add your LinkedIn profile*
-- 🌐 **Portfolio:** *Coming Soon*
+
 
 ---
 
